@@ -2,6 +2,7 @@ import logging
 import unittest
 import os
 from spaceone.core import config
+import json
 
 from spaceone.inventory.connector.management.metric_connector import MetricConnector
 
